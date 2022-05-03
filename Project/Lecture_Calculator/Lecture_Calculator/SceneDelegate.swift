@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Calculator
+//  Lecture_Calculator
 //
 //  Created by 이주송 on 2022/05/03.
 //
